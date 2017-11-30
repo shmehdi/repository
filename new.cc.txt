@@ -3,4 +3,11 @@ yelll
 why
 how
 why 
+<<<<<<< Updated upstream
 where
+=======
+where
+exactly 
+funky town
+really
+>>>>>>> Stashed changes
